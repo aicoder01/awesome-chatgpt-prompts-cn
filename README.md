@@ -9,4 +9,4 @@ ChatGPT模型是由OpenAI训练的一种大型语言模型，能够生成类似�
 希望您会发现这些提示有用，并且在使用ChatGPT时玩得开心！
 
 ##  点击这里取 [ChatGPT账号](https://wfscknagql.feishu.cn/docx/HzzCdMPoZorWHUxacpZcnIEHnMe)
-## [加入ChatGPT群聊]（https://docs.qq.com/doc/DWHNtaWpuekdoVW5M)
+## [加入ChatGPT群聊](https://docs.qq.com/doc/DWHNtaWpuekdoVW5M)
