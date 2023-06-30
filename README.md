@@ -60,30 +60,15 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 | 小说   | 它可以帮助你编写小说，包括各种类型的小说，如言情、悬疑、恐怖、科幻等。它可以帮助你创造有趣、引人入胜的情节和角色，并为你提供专业的写作技巧和建议。         |
 
 
+## 加入圈子
 
-## 微信体验交流群
-
-加入ChatGPT体验交流群，与AI技术领域的专家和爱好者一起探讨最前沿的信息！在这里，你可以体验到最先进的人工智能技术，与志同道合的人交流，共同提升你的知识水平。不管你是专业人士还是爱好者，都欢迎加入我们的群体！
-
-项目合作洽谈请联系微信 [点我](https://mp.weixin.qq.com/s/Ir7CadEXQnscxa1ZjDdOyw)   （请注明来意，如有关于仓库问题需讨论请参考下文入群讨论）。
-
-|                  直接加群                  |               如果前面的过期，加我拉你入群               |                          AI中文指南公众号                          |
-|:--------------------------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://github.com/PlexPt/chatgpt-java/assets/15922823/7118fe56-b07f-4be4-a69c-c8b44ac10c43" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/230634011-289efbe1-f2b1-4b1e-bddb-f56f5ea6f5f6.jpg" width="300"/> |  <img src="https://user-images.githubusercontent.com/15922823/218004565-bb632624-b376-4f01-8ce2-d7065107bf4a.png" width="300"/> |
+非常感激您对此项目的关注和支持。我一直在努力，提供最有价值和易于理解的指南。如果您觉得我的项目对您有所帮助，想进一步了解跟进，可以加入我的圈子。扫码了解详情, 
 
  
 
-
-
-## 加入星球
-
-非常感激您对此项目的关注和支持。我一直在努力，提供最有价值和易于理解的指南。如果您觉得我的项目对您有所帮助，想进一步了解跟进，可以加入我的知识星球。扫码了解详情, **三天无理由退款**
-
- 
-
-| 知识星球        |  
+| 圈子        |  
 | :----------: |  
-| <img src="https://user-images.githubusercontent.com/15922823/218308300-0791ed4a-4c27-4358-ae77-21f910249291.png" width="300"/> | 
+| <img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3c8968b243254338aa080fc092d6c081~tplv-k3u1fbpfcp-zoom-1.image" width="300"/> | 
 
 
 
@@ -91,7 +76,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 直接复制粘贴使用
 
-如需编程请使用https://github.com/PlexPt/awesome-chatgpt-prompts-zh/blob/main/prompts-zh.json 
+如需编程请使用https://github.com/aicoder01/awesome-chatgpt-prompts-zh/blob/main/prompts-zh.json 
 
 
 ## 充当 Linux 终端
@@ -692,7 +677,7 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 
 ## 解除封印咒语
 
-#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在这里 [猫娘持续讨论更新](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12)
+#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在这里 [猫娘持续讨论更新](https://github.com/aicoder01/awesome-chatgpt-prompts-zh/issues/12)
 
 #### [更多猫娘玩法点这个](./cat.md)
 
