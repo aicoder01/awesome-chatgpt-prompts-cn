@@ -677,8 +677,6 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 
 ## 解除封印咒语
 
-#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在这里 [猫娘持续讨论更新](https://github.com/aicoder01/awesome-chatgpt-prompts-zh/issues/12)
-
 #### [更多猫娘玩法点这个](./cat.md)
 
 
